@@ -1,0 +1,17 @@
+####################### Building and deploying an object detection computer vision application at the edge with AWS Panorama #######################
+https://aws.amazon.com/blogs/machine-learning/building-and-deploying-an-object-detection-computer-vision-application-at-the-edge-with-aws-panorama/
+
+####################### Panorama Docs #######################
+https://docs.aws.amazon.com/panorama/latest/dev/panorama-dev.pdf#applications-models
+
+####################### Bring your own pre-trained MXNet or TensorFlow models into Amazon SageMaker #######################
+https://aws.amazon.com/blogs/machine-learning/bring-your-own-pre-trained-mxnet-or-tensorflow-models-into-amazon-sagemaker/
+
+####################### Panorama Github Samples #######################
+https://github.com/aws-samples/aws-panorama-samples
+
+####################### Darknet to TensorFlow Conversion #######################
+https://github.com/haroonshakeel/tensorflow-yolov4-tflite
+
+####################### COCO dataset pretrained labels #######################
+https://tech.amikelive.com/node-718/what-object-categories-labels-are-in-coco-dataset/
